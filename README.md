@@ -39,4 +39,4 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 
 <div aling="center">
 <img src="casooliveira.png">
-<div/>
+</div>
