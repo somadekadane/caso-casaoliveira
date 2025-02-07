@@ -37,6 +37,6 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 
 ### Modelo Conceitual
 
-<div aling="center">
+<div align="center">
 <img src="casooliveira.png">
 </div>
